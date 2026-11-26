@@ -1,0 +1,50 @@
+
+# Python virtual environments
+venv/
+.venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# FFmpeg binaries and downloads
+ffmpeg/
+ffmpeg.zip
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+
+# AI model files
+*.pt
+*.pth
+*.onnx
+
+# Temporary files
+*.tmp
+*.log
+
+# Local databases
+*.db
+*.sqlite
+*.sqlite3
+
+# IDE configuration
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Runtime data
+audit_logs/
+logs/
+
+# Temporary generated audio
+sample_audio/*.mp3

@@ -1,0 +1,34 @@
+{
+  "call_1_fight.wav": {
+    "text": "There is a fight happening in my area. Someone is attacking people. Please send police immediately.",
+    "lang": "en"
+  },
+  "call_2_fire.wav": {
+    "text": "There is a fire in my building. The flames are spreading fast. Please send the fire brigade.",
+    "lang": "en"
+  },
+  "call_3_garbage.wav": {
+    "text": "Garbage is not collected in our street for two weeks. It smells very bad. Please send someone.",
+    "lang": "en"
+  },
+  "call_4_theft.wav": {
+    "text": "Someone is stealing bikes from the parking lot near my house. I can see the thief right now.",
+    "lang": "en"
+  },
+  "call_5_water.wav": {
+    "text": "There is no water supply in my area since yesterday. Please fix the water problem urgently.",
+    "lang": "en"
+  },
+  "call_6_mr_paani.wav": {
+    "text": "आमच्या भागात तीन दिवसांपासून पाणी नाही. पाणीपुरवठा बंद आहे. कृपया लवकर दुरुस्ती करा.",
+    "lang": "mr"
+  },
+  "call_7_mr_kachra.wav": {
+    "text": "आमच्या रस्त्यावर पाच दिवसांपासून कचरा उचलला नाही. खूप दुर्गंधी येत आहे. कृपया कचरागाडी पाठवा.",
+    "lang": "mr"
+  },
+  "call_8_mr_aag.wav": {
+    "text": "इमारतीला आग लागली आहे. धूर येत आहे. लोक अडकले आहेत. कृपया अग्निशमन दल पाठवा.",
+    "lang": "mr"
+  }
+}
